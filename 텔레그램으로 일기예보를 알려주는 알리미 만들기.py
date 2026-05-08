@@ -8,7 +8,7 @@ import telepot       # 텔레그램 봇 제어 라이브러리
 telegram_id = '8676460552'
 
 # 텔레그램 봇 토큰
-my_token = '7748975963:AAFHzMmA45grcNzPCU-neNhMCIoFbnwvKMU'
+my_token = '7748975963:@@FHzMmA45grcNzPCU-neNhMCIoFbnwvKMU'
  
 # 텔레그램 봇 객체 생성
 bot = telepot.Bot(my_token)
